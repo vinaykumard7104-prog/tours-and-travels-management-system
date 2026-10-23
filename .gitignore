@@ -2,6 +2,9 @@
 /dist/
 /nbproject/private/
 
+# Database credentials
+db.properties
+
 
 
 
